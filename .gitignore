@@ -4,3 +4,8 @@ dist/
 *.log
 .claude/
 rustup-init.exe
+style-transfer/uploads/
+style-transfer/results/
+style-transfer/.env
+__pycache__/
+*.pyc
